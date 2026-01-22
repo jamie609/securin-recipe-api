@@ -2,8 +2,8 @@
 
 Submitted by,
 Samuel Jackson A
-Intern role : Security Analyst
-mail id: 814722104138@trp.srmtrichy.edu.in
+Opted Intern role : Security Analyst
+Mail id: 814722104138@trp.srmtrichy.edu.in
 
 ## Project Overview
 A Full-Stack Secure API built for the Securin Inc Labs assessment. This project parses a JSON dataset of recipes, stores them in an in-memory H2 database, and exposes them via a RESTful API with advanced filtering and security best practices.
